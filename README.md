@@ -1,4 +1,4 @@
-# wdi-admissions
+# WDI Chicago Admisisons
 Hi there! Interested in taking WDI in Chicago? We wanted to compile a list o
 
 ## WDI is a commitment
