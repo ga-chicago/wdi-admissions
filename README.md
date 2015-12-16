@@ -1,3 +1,5 @@
+# WDI Chicago
+
 ## Frequently Asked Questions
 
 * **How long is the program?** The Web Development Immersive program is a 12 week long program in class. That is followed by 90 day career assistance from a dedicated member of the GA Chicago staff.
@@ -17,3 +19,12 @@
   - Install it yourself
   - Configure your own networking adapters
   - Allocate at least 4GB of RAM to your virtual machine
+
+
+## WDI Chicago's Cohorts
+
+#### Woodstock
+
+#### Darth Vader
+
+#### Dragons
