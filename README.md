@@ -5,15 +5,15 @@ Hi there! Interested in taking WDI in Chicago? We wanted to compile a list o
 
 (soon)
 
-## It will transform your life
-
-(soon)
-
 ## You'll learn modern development techniques
 
 (soon)
 
 ## You'll build web applications and servers
+
+(soon)
+
+## What have alumni built?
 
 (soon)
 
