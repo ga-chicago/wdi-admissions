@@ -26,7 +26,7 @@ Hi there! Interested in taking WDI in Chicago? We wanted to compile a list o
   - Understand our staff will assist you when we are available to.Some issues have to wait until after lectures
   - Are comfortable living on the wild side
   - You've used Linux in the past (maybe you're a PHP/MySQL kind of person)
-* **** No. We strongly recommend Linux Mint (with Cinnamon) or Ubuntu if you are new to Linux. Both are easy to get started with.
+* **What version of Linux would you suggest for a newbie?** We recommend Linux Mint (with Cinnamon) or Ubuntu if you are new to Linux. Both are easy to get started with.
 * **Can I run WDI in a virtual machine?** Yes, if you can:
   - Install it yourself
   - Configure your own networking adapters
