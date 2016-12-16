@@ -23,3 +23,9 @@
   - Install it yourself
   - Configure your own networking adapters
   - Allocate at least 4GB of RAM to your virtual machine
+* **If you know Linux...**
+  - We recommend using a Debian flavour
+    - Ubuntu
+    - Linux Mint
+    - Debian
+  - WDI coursework is done using Bash
